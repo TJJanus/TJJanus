@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hey there! I'm TJ
+## 👋 &nbsp;Hey there, I'm TJ and I'm open to work!
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -7,7 +7,7 @@
 🌱 &nbsp;I'm on track for learning more about React and MongoDB\
 ✍️ &nbsp;In my free time, I play video games, hockey, golf and develop my own sites.\
 ✉️ &nbsp;You can shoot me an email at TJJanus1@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume](https://resume.creddle.io/resume/3nla5fhtgbw) for more details about me.\
+📄 &nbsp;Please have a look at my [Resume](https://resume.creddle.io/resume/3nla5fhtgbw) for more details about me.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
