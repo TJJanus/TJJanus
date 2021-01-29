@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡  &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I graduated from West Chester University in 2019 and am Lambda School Endorsed.\
+🎓 &nbsp;I graduated from West Chester University in 2019 and I am Lambda School Endorsed.\
 🌱 &nbsp;I'm on track for learning more about React and MongoDB\
 ✍️ &nbsp;In my free time, I play video games, hockey, golf and develop my own sites.\
 ✉️ &nbsp;You can shoot me an email at TJJanus1@gmail.com! I'll try to respond as soon as I can.\
