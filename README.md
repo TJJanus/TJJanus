@@ -10,7 +10,7 @@
 🏒 &nbsp; I am the Co-Founder of the [National Ball Hockey League](http://thenbhl.com/) - check it out here!\
 📄 &nbsp;Please have a look at my [Resume](https://resume.creddle.io/resume/3nla5fhtgbw) for more details about me.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
 
 ### 🛠 &nbsp;Tech Stack
 
