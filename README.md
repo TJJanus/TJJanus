@@ -27,8 +27,8 @@
 ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 ### 🤝🏻 &nbsp;Favorite Teams
-<img alt="Flyers Logo" src="https://lh3.googleusercontent.com/proxy/W1Ix77ubYNTfd8mnctUfTmhBVIGFhC6y6WobdtB6PxmI9J4NFdjW8AE_suS7GCi1iStE1hGzCBnhEUDPPtRnxnG8W3DL_90ZzMqJhuRjATaFSqsve0njzSfraZMGc29BCPFD0BXIItZJBb6qPBkGJ9q2_PtG_iN6LzI" align="center" height="200px"/>
-<img alt="Giants Logo" src="https://lh3.googleusercontent.com/proxy/-gXMZQLLjVDUghuUhjJxWr7hO1ptGT7jJ4sZFsyZtMIcVqtxnwQHV52FbEwUhC2E2WyxTcDumZ-7sI_30B-r-U4tKX14_FQgOyI" align="center" height="200px"/>
+<img alt="Flyers Logo" src="https://lh3.googleusercontent.com/proxy/W1Ix77ubYNTfd8mnctUfTmhBVIGFhC6y6WobdtB6PxmI9J4NFdjW8AE_suS7GCi1iStE1hGzCBnhEUDPPtRnxnG8W3DL_90ZzMqJhuRjATaFSqsve0njzSfraZMGc29BCPFD0BXIItZJBb6qPBkGJ9q2_PtG_iN6LzI" align="center" height="100px"/>
+<img alt="Giants Logo" src="https://lh3.googleusercontent.com/proxy/-gXMZQLLjVDUghuUhjJxWr7hO1ptGT7jJ4sZFsyZtMIcVqtxnwQHV52FbEwUhC2E2WyxTcDumZ-7sI_30B-r-U4tKX14_FQgOyI" align="center" height="100px"/>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
