@@ -7,6 +7,7 @@
 🌱 &nbsp;I'm on track for learning more about React and MongoDB\
 ✍️ &nbsp;In my free time, I play video games, hockey, golf and develop my own sites.\
 ✉️ &nbsp;You can shoot me an email at TJJanus1@gmail.com! I'll try to respond as soon as I can.\
+🏒 &nbsp; I am the Co-Founder of the [National Ball Hockey League](http://thenbhl.com/) 
 📄 &nbsp;Please have a look at my [Resume](https://resume.creddle.io/resume/3nla5fhtgbw) for more details about me.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -25,6 +26,8 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
+### 🤝🏻 &nbsp;Favorite Teams
+<img alt="Flyers Logo" src="https://assets.stickpng.com/images/5a4fbba3da2b4f099b95da1a.png" align="right"/>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
