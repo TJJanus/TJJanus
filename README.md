@@ -32,6 +32,6 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
- <a href="https://www.linkedin.com/in/tj-janus/">LinkedIn</a>
+ <a href="https://www.linkedin.com/in/tj-janus/">LinkedIn</a> <br> </br>
  <a href="https://twitter.com/12TJanus">Twitter</a>
 
