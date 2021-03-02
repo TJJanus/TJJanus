@@ -8,7 +8,7 @@
 ✍️ &nbsp;In my free time, I play video games, hockey, golf and develop my own sites.\
 ✉️ &nbsp;You can shoot me an email at TJJanus1@gmail.com! I'll try to respond as soon as I can.\
 🏒 &nbsp; I am the Co-Founder of the [National Ball Hockey League](http://thenbhl.com/) - check it out here!\
-📄 &nbsp;Please have a look at my [Resume](https://resume.creddle.io/resume/3nla5fhtgbw) for more details about me.
+📄 &nbsp;Please have a look at my [Resume](https://docs.google.com/document/d/1xgCwkrSzrPTAej7GF4AnXvRzCKT7agHq-PjMPH9hlwA/edit?usp=sharing) for more details about me.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
 
