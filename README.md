@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hey there, I'm TJ and I'm open to work!
+## 👋 &nbsp;Hey there, I'm TJ
 
 ### 👨🏻‍💻 &nbsp;About Me
 
